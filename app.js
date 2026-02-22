@@ -1,11 +1,14 @@
 // Define your data
 const courseData = {
     general: {
-        "All Case Studies":
-            "https://drive.google.com/drive/folders/GENERAL_CASE_STUDIES_LINK",
-        "Time Table": "https://drive.google.com/drive/folders/TIMETABLE_LINK",
+        "All Materials":
+            "https://drive.google.com/drive/folders/17_QvKJoGeuB55NZYhXlX89-tuMYh_OPm?usp=drive_link",
+        "Harvard Case Studies":
+            "https://drive.google.com/drive/folders/1IudOhXXRlrYgGF-3i10I2H90nD3aGms1?usp=drive_link",
+        "Time Table":
+            "https://drive.google.com/drive/folders/1Tq7jnVo55H9mYcAjBWPzVnDMcfN5hJ7I?usp=drive_link",
         "Exam Past Questions":
-            "https://drive.google.com/drive/folders/EXAM_PAST_QUESTIONS_LINK",
+            "https://drive.google.com/drive/folders/1lA1r5xZLhKPX1aiZaIQ6LOQQUZS6M51K?usp=drive_link",
     },
     courses: [
         {
@@ -70,3 +73,46 @@ const courseData = {
         },
     ],
 };
+
+const generalBlock = document.getElementById("general-block");
+
+function populateGeneralHrefs() {
+    if (generalBlock) {
+        const generalMaterials = document.getElementById("general-materials");
+        const generalCase = document.getElementById("general-case");
+        const generalTimeTable = document.getElementById("general-time-table");
+        const generalPastQuestions = document.getElementById(
+            "general-past-questions",
+        );
+
+        if (
+            !generalMaterials ||
+            !generalCase ||
+            !generalPastQuestions ||
+            !generalTimeTable
+        )
+            return;
+
+        generalMaterials.href = courseData.general["All Materials"];
+        generalMaterials.target = "_blank";
+        generalMaterials.rel = "noopener noreferrer";
+
+        generalCase.href = courseData.general["Harvard Case Studies"];
+        generalCase.target = "_blank";
+        generalCase.rel = "noopener noreferrer";
+
+        generalPastQuestions.href = courseData.general["Exam Past Questions"];
+        generalPastQuestions.target = "_blank";
+        generalPastQuestions.rel = "noopener noreferrer";
+
+        generalTimeTable.href = courseData.general["Time Table"];
+        generalTimeTable.target = "_blank";
+        generalTimeTable.rel = "noopener noreferrer";
+    } else {
+        return;
+    }
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+    populateGeneralHrefs();
+});
