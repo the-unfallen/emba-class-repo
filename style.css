@@ -88,6 +88,7 @@ body {
     width: 100%;
     padding: 24px;
     gap: 16px;
+    max-width: 1440px;
 }
 
 .course-segments {
@@ -121,15 +122,17 @@ body {
     display: flex;
     justify-content: space-around;
     gap: 12px;
+    max-width: 600px;
 }
 
-.course-section>div {
 
-}
 
 a {
     cursor: pointer;
     color: rgb(34, 34, 34);
+    border: 2px solid black;
+    padding: 8px;
+    border-radius: 4px;
 }
 
 
@@ -137,12 +140,7 @@ a:visited {
     color: rgb(34, 34, 34);
 }
 
-a {
-    border: 2px solid black;
-    padding: 8px;
-    /* width: 50%; */
-    border-radius: 4px;
-}
+
 
 
 /* @media media type and (condition: breakpoint) {
@@ -158,6 +156,75 @@ a {
     } */
 }
 
-@media screen and (min-width: 480px) and (max-width: 768px) {
+/* and (max-width: 1024px) */
+
+@media screen and (min-width: 768px)  {
     /* Styles for viewports between 480px and 768px (inclusive) */
+    .course-section {
+        border: 1px solid black;
+        width: 75%;
+        padding: 18px;
+        margin-top: 18px;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+        grid-column-gap: 48px;
+        grid-row-gap: 24px;
+    }
+
+
+
+    .course-section div {
+        border: 1px solid black;
+        padding: 8px;
+        border-radius: 4px;
+        cursor: pointer;
+
+    }
+
+    .course-section a {
+        border: none;
+        cursor: pointer;
+        color: rgb(34, 34, 34);
+        font-size: 24px;
+        
+
+    }
 }
+
+
+
+@media screen and (min-width: 480.2px) and (max-width: 767.99px) {
+    /* Styles for viewports between 480px and 768px (inclusive) */
+    .course-section {
+        border: 1px solid black;
+        width: 100%;
+        padding: 18px;
+        margin-top: 18px;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+        grid-column-gap: 24px;
+        grid-row-gap: 24px;
+    }
+
+    .course-section div {
+        border: 1px solid black;
+        padding: 8px;
+        border-radius: 4px;
+        cursor: pointer;
+
+    }
+
+    .course-section a {
+        border: none;
+        cursor: pointer;
+        color: rgb(34, 34, 34);
+        
+
+    }
+}
+
+
+
+
