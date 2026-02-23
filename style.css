@@ -76,7 +76,9 @@ h6 {
 }
 
 body {
-    background: yellow;
+    background: #fff;
+    color: rgb(34, 34, 34);
+    text-align: center;
 }
 
 .all {
@@ -92,7 +94,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 12px;
+    gap: 24px;
+    margin-top: 18px;
 }
 
 
@@ -100,15 +103,54 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 12px;
+    gap: 24px;
+    margin-top: 18px;
 }
 
+.folder-title {
+    padding:18px;
+    background-color: 	#353935;
+    color: white;
+}
+
+#nav-bar {
+    margin-top: 12px;
+}
+
+.course-section>div {
+
+}
 
 a {
     cursor: pointer;
+    color: rgb(34, 34, 34);
 }
 
 
 a:visited {
-    color: blue;
+    color: rgb(34, 34, 34);
+}
+
+a {
+    border: 2px solid black;
+    padding: 8px;
+    width: 50%;
+}
+
+
+/* @media media type and (condition: breakpoint) {
+  // CSS rules
+} */
+
+
+@media (max-width: 480px) {
+
+    /* Styles for viewports between 0 and 480px (inclusive) */
+    /* .text {
+        font-size: 16px;
+    } */
+}
+
+@media screen and (min-width: 480px) and (max-width: 768px) {
+    /* Styles for viewports between 480px and 768px (inclusive) */
 }
