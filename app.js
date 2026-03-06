@@ -9,6 +9,8 @@ const courseData = {
             "https://drive.google.com/drive/folders/1e8kpPKwiqcWbyonv2RwhTenyXgh1d-z_?usp=drive_link",
         "Exam Past Questions":
             "https://drive.google.com/drive/folders/1m1EkeXCE47xo7tGK4NHrCPknakBrpPpf?usp=drive_link",
+        "Exam Time Table":
+            "https://drive.google.com/drive/folders/1cGXz0Fc7PLQ3UmOpGXKz6m4_Qwmvy16T?usp=drive_link",
     },
     courses: [
         {
@@ -128,12 +130,16 @@ function populateGeneralHrefs() {
         const generalPastQuestions = document.getElementById(
             "general-past-questions",
         );
+        const generalExamTimeTable = document.getElementById(
+            "general-exam-time-table",
+        );
 
         if (
             !generalMaterials ||
             !generalCase ||
             !generalPastQuestions ||
-            !generalTimeTable
+            !generalTimeTable ||
+            !generalExamTimeTable
         )
             return;
 
@@ -150,6 +156,10 @@ function populateGeneralHrefs() {
         generalPastQuestions.rel = "noopener noreferrer";
 
         generalTimeTable.href = courseData.general["Time Table"];
+        generalTimeTable.target = "_blank";
+        generalTimeTable.rel = "noopener noreferrer";
+
+        generalExamTimeTable.href = courseData.general["Exam Time Table"];
         generalTimeTable.target = "_blank";
         generalTimeTable.rel = "noopener noreferrer";
     } else {
