@@ -209,10 +209,10 @@ function populateCourseBlocks() {
 function populateNavbarLinks() {
     if (!navBlock) return;
     navBlock.innerHTML = `
-        <a href="course1.html">821</a>
-        <a href="course2.html">822</a>
-        <a href="course3.html">823</a>
-        <a href="course4.html">824</a>
-        <a href="course5.html">825</a>
+        <a href="course1.html">831</a>
+        <a href="course2.html">832</a>
+        <a href="course3.html">833</a>
+        <a href="course4.html">834</a>
+        <a href="course5.html">835</a>
     `;
 }
