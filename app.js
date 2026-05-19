@@ -2,105 +2,105 @@
 const courseData = {
     general: {
         "All Materials":
-            "https://drive.google.com/drive/folders/1f7_9UwU1kgfcgdhoilMlM7Bh7nGl9SPx?usp=drive_link",
+            "https://drive.google.com/drive/folders/1REKcht6zIPT2J7yUHk637MiqBkPs22R7?usp=drive_link",
         "Harvard Case Studies":
-            "https://drive.google.com/drive/folders/1CiDq9nM0vWXMlrheFD5Te7K4i3l9lTc5?usp=drive_link",
+            "https://drive.google.com/drive/folders/13JfdZAY-kmHxFYVZehD5dIlDDeQs1so9?usp=drive_link",
         "Time Table":
-            "https://drive.google.com/drive/folders/1e8kpPKwiqcWbyonv2RwhTenyXgh1d-z_?usp=drive_link",
+            "https://drive.google.com/drive/folders/1O6XlzPbPkqiLQp8pzDt11X9No1jBA0Tq?usp=drive_link",
         "Exam Past Questions":
-            "https://drive.google.com/drive/folders/1m1EkeXCE47xo7tGK4NHrCPknakBrpPpf?usp=drive_link",
+            "https://drive.google.com/drive/folders/10fkgJXBRqHawXyLVs1R93vPAE_iCFH0W?usp=drive_link",
         "Exam Time Table":
-            "https://drive.google.com/drive/folders/1cGXz0Fc7PLQ3UmOpGXKz6m4_Qwmvy16T?usp=drive_link",
+            "https://drive.google.com/drive/folders/1kd5KUrp-5_C5ZRWM4yYn2HyJSwzwv0YO?usp=drive_link",
     },
     courses: [
         {
             name: "Course 1",
             resources: {
                 "Case Studies":
-                    "https://drive.google.com/drive/folders/1-GaRWVe0VAvRpizxELyoY5Un8AWMo874?usp=drive_link",
+                    "https://drive.google.com/drive/folders/15hNkRSg0__XZP2TuORsy6X9fORKTP0jN?usp=drive_link",
                 "Learning Work Plan":
-                    "https://drive.google.com/drive/folders/1tdq-8AAGM5kQ9Z0PFH5Ze74gBX_oSw4S?usp=drive_link",
-                Books: "https://drive.google.com/drive/folders/1p9VPfG_rwiFSjc0ose5-aw98c1XcNTxv?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1Ewuy7BYUlEvh_dOLc4Yc7jL42UKf93YL?usp=drive_link",
+                Books: "https://drive.google.com/drive/folders/1s98RoJ0Cy5fshjGXE3JWBM7sRq89w-SZ?usp=drive_link",
                 "Lecture Slides":
-                    "https://drive.google.com/drive/folders/1W3FYGW_oE7phuriGrqPFODucfCtOCjbv?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1nJ4msZ6uEf3oKe4ocsaiKP1ISDC470a4?usp=drive_link",
                 Assignment:
-                    "https://drive.google.com/drive/folders/19su_JgNTc5fCRxTehIkmQ0Rhf60JWCnN?usp=drive_link",
+                    "https://drive.google.com/drive/folders/15ehMW4E9mjcL7ttRK4UHoNdjcsirPwvp?usp=drive_link",
                 "Past Questions":
-                    "https://drive.google.com/drive/folders/1D8dS7m8v1vpyTYHpyDj8RIJy26isO_Qn?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1c3bYohK3LdqW-fBeuU8XnspWQ_yOzhHS?usp=drive_link",
                 "All materials":
-                    "https://drive.google.com/drive/folders/1wx2lPUr93GyPMXhyyexOJi4_f6Utq4vc?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1_gErZ5_I4kFbOJ7rIvvr1xhUiHFql5DT?usp=drive_link",
             },
         },
         {
             name: "Course 2",
             resources: {
                 "Case Studies":
-                    "https://drive.google.com/drive/folders/16y48WAg9uFwRoQlIk-iTYi2BOhFctmrI?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1eYuLDLK2SFjFhiy9gUqCrmBYOM0ocyTO?usp=drive_link",
                 "Learning Work Plan":
-                    "https://drive.google.com/drive/folders/1leBgVQq38pr065A3E1bK9bk04Eohr89P?usp=drive_link",
-                Books: "https://drive.google.com/drive/folders/122ivExS9zkDLv1ebOMaXOzLCCmTRamwd?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1SOcjsS0rINJDSDqUKIJfrvxD7mGw3HtI?usp=drive_link",
+                Books: "https://drive.google.com/drive/folders/1byUCzd00fgaXOEeZrwF7Aqomq5qxxDjc?usp=drive_link",
                 "Lecture Slides":
-                    "https://drive.google.com/drive/folders/1OI9qQbwlZy2A5OSIT3AYGuWlhnIg7DFB?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1uQy4meGRUBFDEFBVPITjaS0XSejGpfL3?usp=drive_link",
                 Assignment:
-                    "https://drive.google.com/drive/folders/1ne7ocyP3-kXl_nIN049tTHmlkKpEqQlh?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1cXcUU4XVicAAfSUIJp0gPj39yrfaLO1_?usp=drive_link",
                 "Past Questions":
-                    "https://drive.google.com/drive/folders/1bwymtfkeFGgGlN_kjmL98xJtpAbJ9uNu?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1fhW05Z8WrE9XQMeP4Lgf3kxlrtBcx8F9?usp=drive_link",
                 "All materials":
-                    "https://drive.google.com/drive/folders/1l6870TKKPK3qywALPR8ozScqxBFdyzSm?usp=drive_link",
+                    "https://drive.google.com/drive/folders/18ZKR3CDwywnL1czyD9PpRmzRtHfcIKTk?usp=drive_link",
             },
         },
         {
             name: "Course 3",
             resources: {
                 "Case Studies":
-                    "https://drive.google.com/drive/folders/1t7T3vgPeYqxcYKg_TcTXz6dLSDDjyxYF?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1eAM1ixSxMw0U6P3DSNLOlU2Fg9lvK1VZ?usp=drive_link",
                 "Learning Work Plan":
-                    "https://drive.google.com/drive/folders/1YTEPFyTlODsAVON1fJrFNBJtruaO5Cot?usp=drive_link",
-                Books: "https://drive.google.com/drive/folders/1yLdLoEhAtXhwb9zC42TppH7TWu8NUYSw?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1jiCPVK16tjFWpVfSv1xLDhEt-ibyn9Xq?usp=drive_link",
+                Books: "https://drive.google.com/drive/folders/1s7lheozKP6aupM9Vq4x_fdyp8C55Gc9i?usp=drive_link",
                 "Lecture Slides":
-                    "https://drive.google.com/drive/folders/1UFTOYiHD6t89ssvM1BWQtPG25H7174Kg?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1xaf_g-mOmFzBSYYoOhMKf9XG28wAObc0?usp=drive_link",
                 Assignment:
-                    "https://drive.google.com/drive/folders/1a7ibGtYDsYySRKXY0lJTslYao91Li92p?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1AZSqvMHwSLfb6SgiOo-i_MRTcajh6-uz?usp=drive_link",
                 "Past Questions":
-                    "https://drive.google.com/drive/folders/15ZogR8e9oeZOs7GqlMky5MXrpzUQvRTV?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1aD9XlvLwXDUaFVRh_i5eGICKM-CB_QTN?usp=drive_link",
                 "All materials":
-                    "https://drive.google.com/drive/folders/1bMMtVPV95ZMYgP-4PPo-7ZbusxOzro7x?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1_HdVPjrAlMDO1lkZ2S7UMWO0qEBrrCU1?usp=drive_link",
             },
         },
         {
             name: "Course 4",
             resources: {
                 "Case Studies":
-                    "https://drive.google.com/drive/folders/1Uv-1Km34CfVrqzmFjke-Q8kkWS9VK62i?usp=drive_link",
+                    "https://drive.google.com/drive/folders/19ea3hiZ18Z_-EGA5N9ogMpE_5NMFM1SY?usp=drive_link",
                 "Learning Work Plan":
-                    "https://drive.google.com/drive/folders/18o3BfFc0jpVyk5g_CnyZN3gx4lyPexci?usp=drive_link",
-                Books: "https://drive.google.com/drive/folders/1oZ6f3FZ32dM2KJWBMt4QNntpSWzGeVN1?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1t4DPmL_lVtxVQ_AxBNTbpyDPPv85DuVA?usp=drive_link",
+                Books: "https://drive.google.com/drive/folders/1eA_j-DcrpEZkFNfmUeLZdjegFeIZXgfK?usp=drive_link",
                 "Lecture Slides":
-                    "https://drive.google.com/drive/folders/1qoT-UakSambGHRCUkTFP-9jXXPTkaOqd?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1QmkO_wQQDuiOSDhHcQwy-BqO6XZyQrXg?usp=drive_link",
                 Assignment:
-                    "https://drive.google.com/drive/folders/1qANWl-jKhBmOPB071DubNvDD4WIPlgHZ?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1rHSofXxdfe8AKsXXxOqE0n9hrtQzs4O1?usp=drive_link",
                 "Past Questions":
-                    "https://drive.google.com/drive/folders/1K58_NKHxEQbaqD0_YCh3p7PxOzp1oNtk?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1B9f6LmW7QBhQG6zHYYHUjKUTulbYivfA?usp=drive_link",
                 "All materials":
-                    "https://drive.google.com/drive/folders/1kZy0PgF8amhJyooBeTXBNndpvRT6TbBe?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1GD-fvAUnf8L6Tj2MsQp_bQxPEdeEXBes?usp=drive_link",
             },
         },
         {
             name: "Course 5",
             resources: {
                 "Case Studies":
-                    "https://drive.google.com/drive/folders/1KGYLioIxr-MJIc78HXNs9ZMD_J8sqEaG?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1lxEXWjPUjpVGXh02PFn-yVPVRwTinfPw?usp=drive_link",
                 "Learning Work Plan":
-                    "https://drive.google.com/drive/folders/1enJH0ZxOcSfdedzAceFhJ4pgdZJCZ0KS?usp=drive_link",
-                Books: "https://drive.google.com/drive/folders/14LFWArFNLgalGwScXIuRUu4AGy5vgPJa?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1L8zs18q8Xogb9FDelUfZ_Ary74TQmD0h?usp=drive_link",
+                Books: "https://drive.google.com/drive/folders/1I7Xwl9VjKkPj6JaUnjoxsKhvrfW25mNw?usp=drive_link",
                 "Lecture Slides":
-                    "https://drive.google.com/drive/folders/1cPZjiabedP_Zo6-V9hLuncG9QGBP9ijY?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1wDY8m8f9wv8-ut8JXlkVNSLVxd5FFc01?usp=drive_link",
                 Assignment:
-                    "https://drive.google.com/drive/folders/1EZGVXDWUiAYNP3bCRUZNVNZRFv7nF3IV?usp=drive_link",
+                    "https://drive.google.com/drive/folders/10LP6ADyhY9JiUIomCPL4MnjnK_yrYzN7?usp=drive_link",
                 "Past Questions":
-                    "https://drive.google.com/drive/folders/16RUMyjgi6JNpZX0Ar8Bn8IQk6RIM2HAb?usp=drive_link",
+                    "https://drive.google.com/drive/folders/125ix_LppW7G_q1GN4SR6fnCvWh6Pi1yj?usp=drive_link",
                 "All materials":
-                    "https://drive.google.com/drive/folders/1Dhfimqf2-kaNjmuU8htJK0ddNB9K3w0K?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1MDhuWkaKG8cpReiN8CJFK1YWmJNxUAbg?usp=drive_link",
             },
         },
     ],
