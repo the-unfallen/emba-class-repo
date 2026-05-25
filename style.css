@@ -130,7 +130,7 @@ body {
 a {
     cursor: pointer;
     color: rgb(34, 34, 34);
-    border: 2px solid black;
+    /* border: 2px solid black; */
     padding: 8px;
     border-radius: 4px;
 }
