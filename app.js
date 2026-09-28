@@ -2,107 +2,107 @@
 const courseData = {
     general: {
         "All Materials":
-            "https://drive.google.com/drive/folders/1REKcht6zIPT2J7yUHk637MiqBkPs22R7?usp=drive_link",
+            "https://drive.google.com/drive/folders/1oa4b9zR_hFPbePN9LmB10OUhM1-477HI?usp=drive_link",
         "Harvard Case Studies":
-            "https://drive.google.com/drive/folders/13JfdZAY-kmHxFYVZehD5dIlDDeQs1so9?usp=drive_link",
+            "https://drive.google.com/drive/folders/1HMiLkB7QoTFv1FR7zUe2xIuo6lzvuKdY?usp=drive_link",
         "Time Table":
-            "https://drive.google.com/drive/folders/1O6XlzPbPkqiLQp8pzDt11X9No1jBA0Tq?usp=drive_link",
-        "Exam Past Questions":
-            "https://drive.google.com/drive/folders/10fkgJXBRqHawXyLVs1R93vPAE_iCFH0W?usp=drive_link",
+            "https://drive.google.com/drive/folders/1RHzNCXZJ2rXxXvTmROHM2alhD5XVzf2I?usp=drive_link",
+        // "Exam Past Questions":
+        //     "https://drive.google.com/drive/folders/10fkgJXBRqHawXyLVs1R93vPAE_iCFH0W?usp=drive_link",
         "Exam Time Table":
-            "https://drive.google.com/drive/folders/1kd5KUrp-5_C5ZRWM4yYn2HyJSwzwv0YO?usp=drive_link",
+            "https://drive.google.com/drive/folders/1TAJ5UONpTgY-hr1vEXIND8EajHvr2vJe?usp=drive_link",
     },
     courses: [
         {
-            name: "Course 1",
+            name: "Course 1", //851
             resources: {
                 "Case Studies":
-                    "https://drive.google.com/drive/folders/15hNkRSg0__XZP2TuORsy6X9fORKTP0jN?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1YpvS9tjoPUKazw1DUdoGKTYJOREctAWL?usp=drive_link",
                 "Learning Work Plan":
-                    "https://drive.google.com/drive/folders/1Ewuy7BYUlEvh_dOLc4Yc7jL42UKf93YL?usp=drive_link",
-                Books: "https://drive.google.com/drive/folders/1s98RoJ0Cy5fshjGXE3JWBM7sRq89w-SZ?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1ywb0KLHQn0jl0LBPfJMAfml8tQ6Exyev?usp=drive_link",
+                Books: "https://drive.google.com/drive/folders/1pHUEMPtai3AIRhGitX8rLYr3BfT2ymN8?usp=drive_link",
                 "Lecture Slides":
-                    "https://drive.google.com/drive/folders/1nJ4msZ6uEf3oKe4ocsaiKP1ISDC470a4?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1ejP9YuQCEOM5ci3U0HioPrsJJC0U6fLW?usp=drive_link",
                 Assignment:
-                    "https://drive.google.com/drive/folders/15ehMW4E9mjcL7ttRK4UHoNdjcsirPwvp?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1n3vDdeYJ41uHxuuDU0VT2fQy-9X3Azqw?usp=drive_link",
                 "Past Questions":
-                    "https://drive.google.com/drive/folders/1c3bYohK3LdqW-fBeuU8XnspWQ_yOzhHS?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1uqNJDsut13eHh37Ip5ILe9Xz_7f62DCu?usp=drive_link",
                 "All materials":
-                    "https://drive.google.com/drive/folders/1_gErZ5_I4kFbOJ7rIvvr1xhUiHFql5DT?usp=drive_link",
+                    "https://drive.google.com/drive/folders/120utDURIIs65LaUjnx2mwS40JZh8_jpO?usp=drive_link",
             },
         },
         {
-            name: "Course 2",
+            name: "Course 2", //852
             resources: {
                 "Case Studies":
-                    "https://drive.google.com/drive/folders/1eYuLDLK2SFjFhiy9gUqCrmBYOM0ocyTO?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1TKsDfSU7tGt_6sLQ3eJGBRkgGquhOHbK?usp=drive_link",
                 "Learning Work Plan":
-                    "https://drive.google.com/drive/folders/1SOcjsS0rINJDSDqUKIJfrvxD7mGw3HtI?usp=drive_link",
-                Books: "https://drive.google.com/drive/folders/1byUCzd00fgaXOEeZrwF7Aqomq5qxxDjc?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1Knzr2iSMkc6RV-ZFmcmPrCfCAtXGE7e8?usp=drive_link",
+                Books: "https://drive.google.com/drive/folders/1fACNdzehiT5XkHbkt4TdnT-wNnGJcVCt?usp=drive_link",
                 "Lecture Slides":
-                    "https://drive.google.com/drive/folders/1uQy4meGRUBFDEFBVPITjaS0XSejGpfL3?usp=drive_link",
+                    "https://drive.google.com/drive/folders/16aWRsbmfDcpKmXldbPU6nbZRJlW93zhh?usp=drive_link",
                 Assignment:
-                    "https://drive.google.com/drive/folders/1cXcUU4XVicAAfSUIJp0gPj39yrfaLO1_?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1Ch6V8VSEVRl5X1gSEJzKCL7D7zvssIRW?usp=drive_link",
                 "Past Questions":
-                    "https://drive.google.com/drive/folders/1fhW05Z8WrE9XQMeP4Lgf3kxlrtBcx8F9?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1RylirhuRDmA6Y0O2mOpR1sT8RIo3r9Ig?usp=drive_link",
                 "All materials":
-                    "https://drive.google.com/drive/folders/18ZKR3CDwywnL1czyD9PpRmzRtHfcIKTk?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1fDGsNSm3FKMYQcetsFs4RWc2LEhT7fPc?usp=drive_link",
             },
         },
         {
-            name: "Course 3",
+            name: "Course 3", //853
             resources: {
                 "Case Studies":
-                    "https://drive.google.com/drive/folders/1eAM1ixSxMw0U6P3DSNLOlU2Fg9lvK1VZ?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1USETlwu9ndr6A5LmqDmaAJ-QgAOgFAUC?usp=drive_link",
                 "Learning Work Plan":
-                    "https://drive.google.com/drive/folders/1jiCPVK16tjFWpVfSv1xLDhEt-ibyn9Xq?usp=drive_link",
-                Books: "https://drive.google.com/drive/folders/1s7lheozKP6aupM9Vq4x_fdyp8C55Gc9i?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1wMBpRrQ47ZyFnrpeWKRVaZdmxStW5Md3?usp=drive_link",
+                Books: "https://drive.google.com/drive/folders/1HXfhRybOhe334okdsf8kbXmuyAhAOXoQ?usp=drive_link",
                 "Lecture Slides":
-                    "https://drive.google.com/drive/folders/1xaf_g-mOmFzBSYYoOhMKf9XG28wAObc0?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1VwtR3jpSdH56ggY3BhkS8KX-iqz3zppN?usp=drive_link",
                 Assignment:
-                    "https://drive.google.com/drive/folders/1AZSqvMHwSLfb6SgiOo-i_MRTcajh6-uz?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1VsHIjzhVUU_F68wPQFWWYbfnraxfCMQ9?usp=drive_link",
                 "Past Questions":
-                    "https://drive.google.com/drive/folders/1aD9XlvLwXDUaFVRh_i5eGICKM-CB_QTN?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1JF7CEIkersxXF8ZRtYEk5uDGvEvUJfVY?usp=drive_link",
                 "All materials":
-                    "https://drive.google.com/drive/folders/1_HdVPjrAlMDO1lkZ2S7UMWO0qEBrrCU1?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1-IwmJ3ZLU5l_pnRqU8h4s_fHIncR-QQ8?usp=drive_link",
             },
         },
         {
-            name: "Course 4",
+            name: "Course 4", //854
             resources: {
                 "Case Studies":
-                    "https://drive.google.com/drive/folders/19ea3hiZ18Z_-EGA5N9ogMpE_5NMFM1SY?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1n21zVZbedwXSHF8YyxfmPudnGUbiBI6a?usp=drive_link",
                 "Learning Work Plan":
-                    "https://drive.google.com/drive/folders/1t4DPmL_lVtxVQ_AxBNTbpyDPPv85DuVA?usp=drive_link",
-                Books: "https://drive.google.com/drive/folders/1eA_j-DcrpEZkFNfmUeLZdjegFeIZXgfK?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1xZwt-K9_DMb2l5KEUwY3x-mpPjVa189E?usp=drive_link",
+                Books: "https://drive.google.com/drive/folders/1q6wmuZUbl207nQ_bs37FikpVnw4QovuL?usp=drive_link",
                 "Lecture Slides":
-                    "https://drive.google.com/drive/folders/1QmkO_wQQDuiOSDhHcQwy-BqO6XZyQrXg?usp=drive_link",
+                    "https://drive.google.com/drive/folders/10ecxDWzAziFYXiYaOh-Y_DkYoBDxuYLR?usp=drive_link",
                 Assignment:
-                    "https://drive.google.com/drive/folders/1rHSofXxdfe8AKsXXxOqE0n9hrtQzs4O1?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1dNrGysaxts03zM9p2hDW1jA7eHemWgw9?usp=drive_link",
                 "Past Questions":
-                    "https://drive.google.com/drive/folders/1B9f6LmW7QBhQG6zHYYHUjKUTulbYivfA?usp=drive_link",
+                    "https://drive.google.com/drive/folders/1i6Tjs0momKkYU49ncKTGxbe_KmT_aQ7P?usp=drive_link",
                 "All materials":
-                    "https://drive.google.com/drive/folders/1GD-fvAUnf8L6Tj2MsQp_bQxPEdeEXBes?usp=drive_link",
+                    "https://drive.google.com/drive/folders/11pL0XrSY_fQ1fsDxbyyuSDugsy1c1ra5?usp=drive_link",
             },
         },
-        {
-            name: "Course 5",
-            resources: {
-                "Case Studies":
-                    "https://drive.google.com/drive/folders/1lxEXWjPUjpVGXh02PFn-yVPVRwTinfPw?usp=drive_link",
-                "Learning Work Plan":
-                    "https://drive.google.com/drive/folders/1L8zs18q8Xogb9FDelUfZ_Ary74TQmD0h?usp=drive_link",
-                Books: "https://drive.google.com/drive/folders/1I7Xwl9VjKkPj6JaUnjoxsKhvrfW25mNw?usp=drive_link",
-                "Lecture Slides":
-                    "https://drive.google.com/drive/folders/1wDY8m8f9wv8-ut8JXlkVNSLVxd5FFc01?usp=drive_link",
-                Assignment:
-                    "https://drive.google.com/drive/folders/10LP6ADyhY9JiUIomCPL4MnjnK_yrYzN7?usp=drive_link",
-                "Past Questions":
-                    "https://drive.google.com/drive/folders/125ix_LppW7G_q1GN4SR6fnCvWh6Pi1yj?usp=drive_link",
-                "All materials":
-                    "https://drive.google.com/drive/folders/1MDhuWkaKG8cpReiN8CJFK1YWmJNxUAbg?usp=drive_link",
-            },
-        },
+        // {
+        //     name: "Course 5",
+        //     resources: {
+        //         "Case Studies":
+        //             "https://drive.google.com/drive/folders/1lxEXWjPUjpVGXh02PFn-yVPVRwTinfPw?usp=drive_link",
+        //         "Learning Work Plan":
+        //             "https://drive.google.com/drive/folders/1L8zs18q8Xogb9FDelUfZ_Ary74TQmD0h?usp=drive_link",
+        //         Books: "https://drive.google.com/drive/folders/1I7Xwl9VjKkPj6JaUnjoxsKhvrfW25mNw?usp=drive_link",
+        //         "Lecture Slides":
+        //             "https://drive.google.com/drive/folders/1wDY8m8f9wv8-ut8JXlkVNSLVxd5FFc01?usp=drive_link",
+        //         Assignment:
+        //             "https://drive.google.com/drive/folders/10LP6ADyhY9JiUIomCPL4MnjnK_yrYzN7?usp=drive_link",
+        //         "Past Questions":
+        //             "https://drive.google.com/drive/folders/125ix_LppW7G_q1GN4SR6fnCvWh6Pi1yj?usp=drive_link",
+        //         "All materials":
+        //             "https://drive.google.com/drive/folders/1MDhuWkaKG8cpReiN8CJFK1YWmJNxUAbg?usp=drive_link",
+        //     },
+        // },
     ],
 };
 
@@ -111,7 +111,7 @@ const course1Block = document.getElementById("course-1-block");
 const course2Block = document.getElementById("course-2-block");
 const course3Block = document.getElementById("course-3-block");
 const course4Block = document.getElementById("course-4-block");
-const course5Block = document.getElementById("course-5-block");
+// const course5Block = document.getElementById("course-5-block");
 const navBlock = document.getElementById("nav-bar");
 
 const allCourseBlocks = [
@@ -119,7 +119,7 @@ const allCourseBlocks = [
     course2Block,
     course3Block,
     course4Block,
-    course5Block,
+    // course5Block,
 ];
 
 function populateGeneralHrefs() {
@@ -127,9 +127,9 @@ function populateGeneralHrefs() {
         const generalMaterials = document.getElementById("general-materials");
         const generalCase = document.getElementById("general-case");
         const generalTimeTable = document.getElementById("general-time-table");
-        const generalPastQuestions = document.getElementById(
-            "general-past-questions",
-        );
+        // const generalPastQuestions = document.getElementById(
+        //     "general-past-questions",
+        // );
         const generalExamTimeTable = document.getElementById(
             "general-exam-time-table",
         );
@@ -137,7 +137,6 @@ function populateGeneralHrefs() {
         if (
             !generalMaterials ||
             !generalCase ||
-            !generalPastQuestions ||
             !generalTimeTable ||
             !generalExamTimeTable
         )
@@ -151,9 +150,9 @@ function populateGeneralHrefs() {
         generalCase.target = "_blank";
         generalCase.rel = "noopener noreferrer";
 
-        generalPastQuestions.href = courseData.general["Exam Past Questions"];
-        generalPastQuestions.target = "_blank";
-        generalPastQuestions.rel = "noopener noreferrer";
+        // generalPastQuestions.href = courseData.general["Exam Past Questions"];
+        // generalPastQuestions.target = "_blank";
+        // generalPastQuestions.rel = "noopener noreferrer";
 
         generalTimeTable.href = courseData.general["Time Table"];
         generalTimeTable.target = "_blank";
@@ -209,10 +208,10 @@ function populateCourseBlocks() {
 function populateNavbarLinks() {
     if (!navBlock) return;
     navBlock.innerHTML = `
-        <a href="course1.html">831</a>
-        <a href="course2.html">832</a>
-        <a href="course3.html">833</a>
-        <a href="course4.html">834</a>
-        <a href="course5.html">835</a>
+        <a href="course1.html">851</a>
+        <a href="course2.html">852</a>
+        <a href="course3.html">853</a>
+        <a href="course4.html">854</a>
+    
     `;
 }
